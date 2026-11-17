@@ -1,10 +1,8 @@
 # Tilefolk Privacy Policy
 
-> **Draft — complete the bracketed operator, hosting, retention and legal-basis details before using this policy for App Store submission.**
+**Last updated 17 November 2026**
 
-**Last updated: 8 November 2026**
-
-Tilefolk is operated by **[legal name or company name, country and applicable contact address]** (“we”, “us” or “our”).
+Iulian Szasz, based in Prague, Czechia, is the operator and data controller for Tilefolk.
 
 This policy explains how we handle information when you use Tilefolk.
 
@@ -42,7 +40,7 @@ Your public display name, username, selected avatar, competitive scores and leag
 
 Completed competitive boards may be available for viewing after the daily challenge closes.
 
-If you enable profile sharing, other players may also see your shared town, progress statistics and selected achievement badges.
+When you sign in and your public profile syncs, other signed-in players can also see your town name and layout, progress statistics, and the badges you choose to pin. Tilefolk updates these profile details automatically while you are signed in.
 
 Your email address and private account backup are not displayed on public profiles.
 
@@ -58,15 +56,17 @@ Account-linked coin credits and spending records may be stored to synchronize an
 
 Daily reminders are scheduled locally on your device.
 
-If you enable friend-request push notifications, we store an Apple Push Notification service token and related registration information linked to your account so we can deliver those alerts.
+If you enable social alerts, we store an Apple Push Notification service token and related registration information linked to your account to deliver friend and town-like alerts. Optional Daily countdowns use Live Activity tokens so the countdown can start and end on your device.
 
-Where enabled, Live Activities display the daily puzzle countdown and related status.
+You can manage these features in Tilefolk and your device settings. Turning social alerts off in Tilefolk removes the online registration when the app connects.
 
-You can manage these features in Tilefolk and your device settings.
+## Online service logs
+
+When you use online features, Supabase records technical request information, including IP addresses and, for some requests, an IP-derived country code. The logs help operate, secure, and troubleshoot Tilefolk. Country codes used for these logs come from network requests.
 
 ## Support communications
 
-If you contact us, we receive your email address and the information you choose to include. We use it to respond to your request and investigate the issue.
+If you contact us, we receive your email address and the information you choose to include. You can choose to share a wallet diagnostic with support. It contains wallet and purchase-delivery details that help investigate the issue.
 
 ## How we use information
 
@@ -94,17 +94,15 @@ These providers process information needed to deliver their services. Their priv
 
 ## Storage locations and international transfers
 
-Our online data is hosted in **[verified hosting region and country]**.
-
-Service providers may process information in other countries. Where applicable, we use **[confirmed contractual safeguards or other transfer mechanism]** for international transfers.
+Tilefolk’s primary Supabase database and authentication service are hosted in Ireland. Apple and Supabase may process some information in other countries to deliver their services. Supabase’s [Data Processing Addendum](https://supabase.com/legal/customer-resources/data-processing-addendum) describes the safeguards for covered transfers, including Standard Contractual Clauses where applicable.
 
 ## Data retention
 
 We retain account and gameplay information while your account remains active so that we can provide your saved progress and online features.
 
-After account deletion, associated information is removed from our live systems. Backup copies expire within **[verified backup retention period]**. Operational and security logs are retained for **[verified period]**.
+After account deletion, associated account data is removed from our live systems. Temporary provider recovery copies, where present, expire under the provider’s retention settings. Supabase’s API and database logs are currently retained for one day and may remain until that period expires.
 
-Support correspondence is retained for **[period or clear retention criteria]**. Any information retained to meet legal obligations is limited to what is required for that purpose.
+We keep support correspondence as long as needed to resolve the request and handle related follow-up. We retain information for longer where a legal obligation requires it.
 
 ## Account deletion and your choices
 
@@ -124,7 +122,7 @@ Depending on where you live, you may have rights to access, correct, delete or r
 
 Where applicable, you may also complain to your local data protection authority.
 
-For users in the European Economic Area or United Kingdom, our legal bases are **[confirm the applicable bases for account services, security, optional notifications and legal obligations]**.
+For users in the European Economic Area or United Kingdom, we process the information needed to provide the account services and purchases you request on the basis of performing our agreement with you. We rely on our legitimate interests to keep Tilefolk secure, prevent misuse, troubleshoot service issues, and handle support. Where processing relies on consent, you can withdraw it through the relevant setting or by contacting us. We keep information required by law on the basis of that legal obligation.
 
 Contact **[iulian.szasz@gmail.com](mailto:iulian.szasz@gmail.com)** to make a request. We may need to verify your identity before acting on it.
 
